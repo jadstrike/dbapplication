@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/itemAdd"
+        android:title="@string/add_user_menu_item"
+        app:showAsAction="never"
+    />
+
+    <item
+        android:id="@+id/itemShow"
+        android:title="@string/show_all_users"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/itemSearch"
+        android:title="@string/search_user"
+        app:showAsAction="never"
+
+        />
+
+
+</menu>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DBapplication</string>
+    <string name="user_entry_form">User Entry Form</string>
+    <string name="your_name">Enter your name</string>
+    <string name="your_email" />
+    <string name="user_email">Enter your email</string>
+    <string name="add_user">Add user</string>
+    <string name="welcome_to_db_app">Welcome to DB APP</string>
+    <string name="add_user_menu_item">Add user</string>
+    <string name="show_all_users">Show all users</string>
+    <string name="search_user">Search User</string>
+    <string name="input_search_name">Name</string>
+    <string name="search_here_input">Search ...</string>
+</resources>
